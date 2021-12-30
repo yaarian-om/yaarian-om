@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yaarian_roy" target="blank"><img src="https://img.shields.io/twitter/follow/yaarian_roy?logo=twitter&style=for-the-badge" alt="yaarian_roy" /></a> </p>
 
-- 🌱 I’m currently learning **Game Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **sudipta.kumar020@gmail.com**
 
