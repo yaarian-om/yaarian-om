@@ -1,4 +1,4 @@
-![](https://images.unsplash.com/photo-1585079542156-2755d9c8a094?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
+![](       https://images.unsplash.com/photo-1585079542156-2755d9c8a094?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 
 <h1 align="center">Hi 👋, I'm Sudipta Kumar</h1>
 <h3 align="center">I just believe in one thing & that is "CODE TILL YOUR DEATH"</h3>
