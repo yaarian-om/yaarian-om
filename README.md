@@ -1,4 +1,4 @@
-![](https://scontent.fdac13-1.fna.fbcdn.net/v/t1.6435-9/62179549_460587934770074_3379048593661886464_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeGPwxDorMZ0ZBzyK792TEMv9f1Tp9nQaLH1_VOn2dBosXslTCG6Hn2_-xRH3pfsmxHVpJqmRtoO4W6qFF3HN5fE&_nc_ohc=Uq0is3-P734AX--g7ej&tn=IE3vcL-kF7BXHycZ&_nc_ht=scontent.fdac13-1.fna&oh=00_AT9lvRqbauZvXM6-orjE8tsIkOATQYG02jecYEttdp9mlQ&oe=61FF9A52)
+![](https://images.unsplash.com/photo-1592424002053-21f369ad7fdb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80)
 <h1 align="center">Hi 👋, I'm Sudipta Kumar</h1>
 <h3 align="center">I just believe in one thing & that is "CODE TILL YOUR DEATH"</h3>
 
