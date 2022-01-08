@@ -15,7 +15,8 @@
 - 📫 How to reach me **sudipta.kumar020@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
-
+<p><h3 align="left">Badges I've got</h3><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yaarian_roy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaarian_roy" height="30" width="40" /></a>
