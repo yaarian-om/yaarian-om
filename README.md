@@ -23,7 +23,6 @@
 <a href="https://linkedin.com/in/sudipta-kumar-0a7324216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudipta-kumar-0a7324216" height="30" width="40" /></a>
   
 <a href="https://stackoverflow.com/users/yaarian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yaarian" height="30" width="40" /></a>
-  ![A](https://user-images.githubusercontent.com/83475574/148641420-fdc8f851-03dd-4fae-9ae1-19b362b766a3.jpg)
 
 <a href="https://fb.com/sudipta.kumar.3154" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sudipta.kumar.3154" height="30" width="40" /></a>
   
