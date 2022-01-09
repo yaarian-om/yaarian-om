@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sudipta Kumar</h1>
 <h3 align="center">I just believe in one thing & that is "CODE TILL YOUR DEATH"</h3>
 <!-- Profile Viewwers -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaarian-om&label=Profile%20views&color=0e75b6&style=flat" alt="yaarian-om" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=yaarian-om&label=Profile%20views&color=0e75b6&style=flat" alt="yaarian-om" /> </p>
 
 - 👨‍💻 You can also check out my portfolio at [https://yaarian-om.github.io/](https://yaarian-om.github.io/)
 - 🌱 I’m currently learning **Web Development**
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 <!-- Twitter Follower Counter Badge -->
-<p align="left"> <a href="https://twitter.com/yaarian_roy" target="blank"><img src="https://img.shields.io/twitter/follow/yaarian_roy?logo=twitter&style=for-the-badge" alt="yaarian_roy" /></a> </p>
+<p align="center"> <a href="https://twitter.com/yaarian_roy" target="blank"><img src="https://img.shields.io/twitter/follow/yaarian_roy?logo=twitter&style=for-the-badge" alt="yaarian_roy" /></a> </p>
 
 <p><h3 align="left"></h3><a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 </p>
