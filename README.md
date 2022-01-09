@@ -33,29 +33,31 @@
 </p>
 <br>
 <!-- Most Used Language -->
-<p>
+<p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaarian-om)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <!-- Github Matrices -->
-<p>
+<p align="center">
   
   ![GitHub metrics](https://metrics.lecoq.io/yaarian-om)
 </p>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaarian-om&show_icons=true&locale=en" alt="yaarian-om" /></p> -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yaarian-om)   -->
+<!-- Github Stats -->
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yaarian-om&show_icons=true&count_private=true)  
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaarian-om&" alt="yaarian-om" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaarian-om&" alt="yaarian-om" /></p>
 <!-- Github contribution Graph -->
-<p>
+<p align="center">
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yaarian-om)
   </p>
   
 <!--  Trophies   -->
 <h3 align="left">Trophies:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaarian-om" alt="yaarian-om" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaarian-om" alt="yaarian-om" /></a> </p>
