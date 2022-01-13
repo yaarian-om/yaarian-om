@@ -45,11 +45,13 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaarian-om&show_icons=true&locale=en" alt="yaarian-om" /></p> -->
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yaarian-om)   -->
+
 <!-- Github Stats -->
+<p align="center"> 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yaarian-om&show_icons=true&count_private=true)  
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=yaarian-om&show_icons=true&count_private=true)  
+</p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaarian-om&" alt="yaarian-om" /></p>
 <!-- Github contribution Graph -->
