@@ -64,7 +64,7 @@
   
   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yaarian-om)
   </p>
-  
+   
 <!--  Trophies   -->
 <h3 align="left">Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaarian-om" alt="yaarian-om" /></a> </p>
