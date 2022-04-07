@@ -69,6 +69,4 @@
 <h3 align="left">Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaarian-om" alt="yaarian-om" /></a> </p>
 
-<a href="https://now-playing-profile-alpha-khaki.vercel.app/now-playing?open">
-    <img src="https://MY_VERCEL_DEPLOYMENT_URL/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq)
