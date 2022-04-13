@@ -69,4 +69,7 @@
 <h3 align="left">Trophies:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaarian-om" alt="yaarian-om" /></a> </p>
 
+<!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq)
+-->
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq&unique={true|1|on|yes})
