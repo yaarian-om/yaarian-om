@@ -37,7 +37,9 @@
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaarian-om)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq&unique={true|1|on|yes})
+  </p>
 </div>
 <!-- Github Matrices -->
 <div align="center">
@@ -75,6 +77,6 @@
 <div align="center">
 <p align="center">
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq&unique={true|1|on|yes})
+  
   </p>
   </div>
