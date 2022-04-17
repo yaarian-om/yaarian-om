@@ -72,4 +72,9 @@
 <!--
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq)
 -->
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq&unique={true|1|on|yes})
+<div align="center">
+<p align="center">
+  
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zvllsed5eq7iwjhg5by7oe24mq&unique={true|1|on|yes})
+  </p>
+  </div>
