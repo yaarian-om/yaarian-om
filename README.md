@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yaarian-om&label=Profile%20views&color=0e75b6&style=flat" alt="yaarian-om" /> </p>
 
 - 👨‍💻 You can also check out my portfolio at [https://yaarian-om.github.io/](https://yaarian-om.github.io/)
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently working on a **research**
 
 - 📫 How to reach me **sudipta.kumar020@gmail.com**
 
